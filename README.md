@@ -4,7 +4,8 @@
     <meta charset= "UTF-8"/>
     <meta name="viewport" content="width= device- width, inital- scale= 1.0"/> 
     <meta http- equiv ="X-UA-ok ok Compatible" content=" ie- edge"/>
-    <title>CoronaVírus</title>
+    <title>Covid-19
+</title>
     <br><h1>CoronaVírus</h1></br>
     <h2>O que é CoronaVírus?<h2/>
     <h3>O Coronavírus, causador da pandemia global, pertence a família de vírus (CoV).  Os vírus desta família podem causar desde resfriados comuns a doenças mais graves. O Novo Coronavírus recebeu a denominação SARS-CoV-2 pela Organização Mundial da Saúde (OMS) e a doença que ele provoca tem a denominação COVID-19.</h3>
