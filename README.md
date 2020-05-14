@@ -33,9 +33,7 @@ Dificuldade para respirar (em casos graves).</h3>
 <h3>A transmissão dos Coronavírus costuma ocorrer pelo ar ou por contato pessoal com secreções contaminadas, como: gotículas de saliva, espirro, tosse, catarro, contato pessoal próximo, como toque ou aperto de mão, contato com objetos ou superfícies contaminadas, seguido de contato com a boca, nariz ou olhos.</h3>
 
 
-
 <h3>OBS: É preciso sempre lembrar que estamos em meio à uma pandemia que ja matou milhares de  pessoas pelo mundo, é essencial ficar em casa, por você e pelos mais vulneráveis , e só procurar um hospital, se estiver com falta de ar, pois os hospitais não tem material suficiente, e nem podemos gerar aglomerações.</h3>
-<center><img src= alt="https://drive.google.com/file/d/1DUoS6Z_QDyD1NF9_pn4IOpknRuq8ysNZ/view?usp=drivesdk"></center>
 
 Ana Beatriz da Silva Cruz
 1 AII
